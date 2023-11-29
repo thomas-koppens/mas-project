@@ -1,4 +1,0 @@
-data <- read.csv2("Adjusted-experiment.csv", sep = ',', header = TRUE)
-
-head(data)
-tail(data)
