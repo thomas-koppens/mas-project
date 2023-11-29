@@ -1,0 +1,7 @@
+"0","ggsave(""HeatMap_DominantPercentage"", last_plot())
+"
+"1","[1m[33mError[39m in `ggsave()`:[22m
+[1m[22m[33m![39m `filename` has no file extension and `device` is [34m""NULL""[39m.
+Backtrace:
+[90m 1. [39m[1m[94mggplot2::ggsave([39m[22m""HeatMap_DominantPercentage"", last_plot()[1m[94m)[39m[22m
+"
